@@ -1,7 +1,7 @@
 ### Olá! 🤩💜
-### Eu me chamo Stefany 😎
-### Tenho 23 anos 👽
-### Sou graduanda em Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)
+#### Eu me chamo Stefany 😎
+#### Tenho 23 anos 👽
+#### Sou graduanda em Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)
 
 <div align="center">
   <a href="https://github.com/Stefanydeol">
